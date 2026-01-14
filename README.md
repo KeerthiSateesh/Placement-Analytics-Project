@@ -42,6 +42,18 @@ To understand how different academic and personal factors influence student plac
 
 ## 📊 Dashboard Insights
 
+## 📸 Dashboard Preview
+
+### Overall Dashboard
+![Dashboard](screenshots/dashboard_overview.png)
+
+### Placement by Stream
+![Stream](screenshots/placement_by_stream.png)
+
+### Placement Drivers
+![Drivers](screenshots/drivers_dashboard.png)
+
+
 • Overall Placement Rate  
 • Placement Rate by Stream  
 • Internship Impact on Placement  
